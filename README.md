@@ -1,3 +1,10 @@
+# MELANJUTKAN DARI PROJECT SEBELUMNYA TENTANG CARD
+kita membuat tentang stateless component dan statefull component , perbedaannya antara lain :
+- stateless component kita menggunakan awalan function "const"
+- fullstate component kita menggunakan awalan function "class"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
